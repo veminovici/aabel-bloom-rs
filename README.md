@@ -16,7 +16,7 @@ A crate which implements the [Bloom filter][bloomfilter-url].
 > Code designed and written on the beautiful island of [**Saaremaa**][estonia], Estonia.
 
 [crates-badge]: https://img.shields.io/crates/v/aabel-bloom-rs.svg
-[crates-url]: https://crates.io/crates/aabel-vloom-rs
+[crates-url]: https://crates.io/crates/aabel-bloom-rs
 [ci-badge]: https://github.com/veminovici/aabel-bloom-rs/actions/workflows/ci.yml/badge.svg?branch=main
 [ci-url]: https://github.com/veminovici/aabel-bloom-rs/actions/workflows/ci.yml
 [lang-badge]: https://img.shields.io/github/languages/top/veminovici/aabel-bloom-rs
